@@ -1,0 +1,9 @@
+{
+	"name": "adfdevtestingsri",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd0cf4b9-1f7a-49c5-9e61-2324f5f51aa6",
+		"tenantId": "cf17e0a9-a8ce-4088-a937-c29261588688"
+	}
+}
